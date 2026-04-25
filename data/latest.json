@@ -1,0 +1,66 @@
+{
+  "updated_at": "2026-04-26T07:44:03.387251+10:00",
+  "stats": {
+    "News Items": "8",
+    "Brisbane Temp": "16.5°C",
+    "AUD/USD": "0.714697",
+    "Errors": "0"
+  },
+  "summary": [
+    "监控时间: 2026-04-26 07:44:03 AEST",
+    "新闻抓取数量: 8",
+    "布里斯班温度: 16.5°C",
+    "AUD/USD: 0.714697"
+  ],
+  "events": [
+    {
+      "title": "Brisbane Weather",
+      "description": "Temperature 16.5°C, Wind 9.3km/h",
+      "time": "2026-04-26 07:30",
+      "type": "weather",
+      "url": ""
+    },
+    {
+      "title": "AUD/USD",
+      "description": "1 AUD = 0.714697 USD",
+      "time": "Sat, 25 Apr 2026 00:02:32 +0000",
+      "type": "market",
+      "url": "https://open.er-api.com/"
+    },
+    {
+      "title": "Can commercial farming and conservation co-exist?",
+      "url": "https://www.abc.net.au/news/2026-04-26/predator-free-farm-helps-endangered-species-thrive/106596356",
+      "description": "A predator-proof fence at a Victorian farm is helping endangered species recover while proving conservation and agriculture can successfully co-exist.",
+      "time": "2026-04-26 07:31",
+      "type": "news"
+    },
+    {
+      "title": "Ollie Hollands 'in a good space' despite late omission after brother's struggles",
+      "url": "https://www.abc.net.au/news/2026-04-26/ollie-hollands-elijah-hollands-carlton-fremantle-afl-game/106607476",
+      "description": "Carlton coach Michael Voss says Elijah Hollands's younger brother Ollie is doing OK despite being a late out for the club's Anzac Day clash with Fremantle.",
+      "time": "2026-04-26 07:26",
+      "type": "news"
+    },
+    {
+      "title": "'Tombstone tourists' keep Australia's oldest surviving European cemetery alive",
+      "url": "https://www.abc.net.au/news/2026-04-26/volunteers-keep-aus-oldest-european-cemetery-alive-parramatta/106585656",
+      "description": "Nestled between apartment blocks and opposite an escape room, St John's Cemetery holds many unique stories from history.",
+      "time": "2026-04-26 07:21",
+      "type": "news"
+    },
+    {
+      "title": "Two out of three stolen cars are left with 'some form of hazard' in them",
+      "url": "https://www.abc.net.au/news/2026-04-26/what-happens-to-recovered-stolen-cars/106589006",
+      "description": "'Opportunistic' car thieves are leaving vehicles littered with syringes, weapons and even traps, and in 2025, 77 per cent of vehicles inspected by one contractor had signs of me...",
+      "time": "2026-04-26 07:15",
+      "type": "news"
+    },
+    {
+      "title": "Threatened fish rescued in Victoria's 'most flow-stressed river'",
+      "url": "https://www.abc.net.au/news/2026-04-26/moorabool-river-fish-rescue/106595930",
+      "description": "A small fish that smells like freshly-cut cucumber could be akin to a canary in the coalmine for one of Victoria's most stressed rivers.",
+      "time": "2026-04-26 07:14",
+      "type": "news"
+    }
+  ]
+}
