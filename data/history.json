@@ -25,5 +25,32 @@
       "AUD/USD": "0.714697",
       "Errors": "0"
     }
+  },
+  {
+    "updated_at": "2026-04-26T08:08:59.736818+10:00",
+    "stats": {
+      "News Items": "0",
+      "Brisbane Temp": "N/A",
+      "AUD/USD": "N/A",
+      "Errors": "3"
+    }
+  },
+  {
+    "updated_at": "2026-04-26T08:09:12.263810+10:00",
+    "stats": {
+      "News Items": "0",
+      "Brisbane Temp": "N/A",
+      "AUD/USD": "N/A",
+      "Errors": "3"
+    }
+  },
+  {
+    "updated_at": "2026-04-26T08:10:11.030069+10:00",
+    "stats": {
+      "News Items": "8",
+      "Brisbane Temp": "17.2°C",
+      "AUD/USD": "0.714697",
+      "Errors": "0"
+    }
   }
 ]
