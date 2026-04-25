@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-04-26T08:10:11.030069+10:00",
+  "updated_at": "2026-04-26T08:14:11.267440+10:00",
   "stats": {
     "News Items": "8",
     "Brisbane Temp": "17.2°C",
@@ -7,7 +7,7 @@
     "Errors": "0"
   },
   "summary": [
-    "监控时间: 2026-04-26 08:10:11 AEST",
+    "监控时间: 2026-04-26 08:14:11 AEST",
     "新闻抓取数量: 8",
     "布里斯班温度: 17.2°C",
     "AUD/USD: 0.714697"
@@ -26,6 +26,13 @@
       "time": "Sat, 25 Apr 2026 00:02:32 +0000",
       "type": "market",
       "url": "https://open.er-api.com/"
+    },
+    {
+      "title": "Walter lost his wife and daughters at Port Arthur. Thirty years on, this is his message",
+      "url": "https://www.abc.net.au/news/2026-04-26/tasmania-port-arthur-thirty-year-anniversary/106588810",
+      "description": "On April 28, 1996, a gunman killed 35 people at Port Arthur. Walter Mikac's wife and two daughters were among them. Thirty years on, he says gun control is as important as ever.",
+      "time": "2026-04-26 08:04",
+      "type": "news"
     },
     {
       "title": "Ancient and 'sterile' plant population found, but its location remains a secret",
@@ -53,13 +60,6 @@
       "url": "https://www.abc.net.au/news/2026-04-26/ollie-hollands-elijah-hollands-carlton-fremantle-afl-game/106607476",
       "description": "Carlton coach Michael Voss says Elijah Hollands's younger brother Ollie is doing OK despite being a late out for the club's Anzac Day clash with Fremantle.",
       "time": "2026-04-26 07:26",
-      "type": "news"
-    },
-    {
-      "title": "'Tombstone tourists' keep Australia's oldest surviving European cemetery alive",
-      "url": "https://www.abc.net.au/news/2026-04-26/volunteers-keep-aus-oldest-european-cemetery-alive-parramatta/106585656",
-      "description": "Nestled between apartment blocks and opposite an escape room, St John's Cemetery holds many unique stories from history.",
-      "time": "2026-04-26 07:21",
       "type": "news"
     }
   ]
